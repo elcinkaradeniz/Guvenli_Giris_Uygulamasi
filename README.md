@@ -30,9 +30,24 @@ Projenin sorunsuz çalışabilmesi için XAMPP'in Apache ve MySQL servislerinin 
 
 
 
-Projenin Görünümü ve Form Alanı: 
+Projenin Görünümü : 
 
-![Ekran görüntüsü 2024-09-03 211438](https://github.com/user-attachments/assets/f066bcb6-52ea-41a2-8c54-e25c6903f963)
+![Ekran görüntüsü 2024-09-03 211438](https://github.com/user-attachments/assets/2067bd5e-3bc2-4119-8801-e90de181f4d3)
 
+Form Alanı: 
+
+![Ekran görüntüsü 2024-09-03 211502](https://github.com/user-attachments/assets/1676f683-e245-45df-ae83-17c8f8212bda)
+
+
+Panel Sayfası: 
+
+
+
+![Ekran görüntüsü 2024-09-03 212803](https://github.com/user-attachments/assets/53158442-5c21-45c9-ae59-3c2522807455)
+
+
+
+
+![Ekran görüntüsü 2024-09-03 212628](https://github.com/user-attachments/assets/00e7d119-f0da-4bf8-8fea-f75e196e9ff4)
 
 
