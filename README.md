@@ -1,6 +1,7 @@
 PHP, HTML5 ve CSS3 ile Yapılan Proje                         
 
-Proje Açıklaması--------------------------
+Proje Açıklaması-------------------------- 
+
 Bu proje, kullanıcıların oturum açabilmesi ve sadece giriş yapmış kullanıcıların belirli sayfalara erişebilmesini sağlayan bir sistem geliştirmek üzere PHP, HTML5 ve CSS3 kullanılarak oluşturulmuştur.
 Proje, XAMPP üzerinde lokal olarak çalıştırılmaktadır.
 
@@ -27,6 +28,11 @@ Kullanıcı giriş işlemleri panelgiris.php sayfasında gerçekleştirilir. Gir
 XAMPP Kullanımı
 Projenin sorunsuz çalışabilmesi için XAMPP'in Apache ve MySQL servislerinin aktif olması gerekmektedir. Bu servislere XAMPP kontrol panelinden kolayca erişebilir ve başlatabilirsiniz.
 
+
+
+Projenin Görünümü ve Form Alanı: 
+
+![Ekran görüntüsü 2024-09-03 211438](https://github.com/user-attachments/assets/f066bcb6-52ea-41a2-8c54-e25c6903f963)
 
 
 
