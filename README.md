@@ -1,6 +1,8 @@
-PHP, HTML5 ve CSS3 ile Yapılan Proje
-Proje Açıklaması
-Bu proje, kullanıcıların oturum açabilmesi ve sadece giriş yapmış kullanıcıların belirli sayfalara erişebilmesini sağlayan bir sistem geliştirmek üzere PHP, HTML5 ve CSS3 kullanılarak oluşturulmuştur. Proje, XAMPP üzerinde lokal olarak çalıştırılmaktadır.
+PHP, HTML5 ve CSS3 ile Yapılan Proje                         
+
+Proje Açıklaması--------------------------
+Bu proje, kullanıcıların oturum açabilmesi ve sadece giriş yapmış kullanıcıların belirli sayfalara erişebilmesini sağlayan bir sistem geliştirmek üzere PHP, HTML5 ve CSS3 kullanılarak oluşturulmuştur.
+Proje, XAMPP üzerinde lokal olarak çalıştırılmaktadır.
 
 Geliştirme Ortamı
 PHP'nin çalışabilmesi için bir sunucuya ihtiyaç vardır. Bu projede, internet üzerinden bir sunucu almak yerine, yerel bir geliştirme ortamı olan XAMPP kullanılmıştır. XAMPP, Apache web sunucusu ve MySQL veritabanı yönetim sistemini içerir, bu da projeyi yerel bir makinede çalıştırmak için ideal bir çözümdür.
@@ -24,3 +26,7 @@ Kullanıcı giriş işlemleri panelgiris.php sayfasında gerçekleştirilir. Gir
 
 XAMPP Kullanımı
 Projenin sorunsuz çalışabilmesi için XAMPP'in Apache ve MySQL servislerinin aktif olması gerekmektedir. Bu servislere XAMPP kontrol panelinden kolayca erişebilir ve başlatabilirsiniz.
+
+
+
+
