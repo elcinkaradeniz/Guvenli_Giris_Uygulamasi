@@ -1,4 +1,5 @@
-PHP, HTML5 ve CSS3 ile Yapılan Proje                         
+PHP, HTML5 ve CSS3 ile YAPILAN FULL-STACK PROJE 
+
 
 Proje Açıklaması-------------------------- 
 
@@ -30,7 +31,8 @@ Projenin sorunsuz çalışabilmesi için XAMPP'in Apache ve MySQL servislerinin 
 
 
 
-Projenin Görünümü : 
+PROJENİN EKRAN GÖRÜNTÜSÜ:
+
 
 ![Ekran görüntüsü 2024-09-03 211438](https://github.com/user-attachments/assets/2067bd5e-3bc2-4119-8801-e90de181f4d3)
 
@@ -47,6 +49,8 @@ Panel Sayfası:
 
 
 
+
+PanelGiriş Sayfası :
 
 ![Ekran görüntüsü 2024-09-03 212628](https://github.com/user-attachments/assets/00e7d119-f0da-4bf8-8fea-f75e196e9ff4)
 
