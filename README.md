@@ -55,3 +55,8 @@ PanelGiriş Sayfası :
 ![Ekran görüntüsü 2024-09-03 212628](https://github.com/user-attachments/assets/00e7d119-f0da-4bf8-8fea-f75e196e9ff4)
 
 
+
+
+-----------------------------------------------------PROJENİN  CANLI HALİ -------------------------------------------
+
+linki : http://elcinsite.rf.gd/
